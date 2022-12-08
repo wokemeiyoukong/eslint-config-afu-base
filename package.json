@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-afu-base",
+  "version": "1.0.0",
+  "description": "ESLint config with the rules that is often used!",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "npm",
+    "eslint-config-plugin"
+  ],
+  "author": "fangmj",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "1.19.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0"
+  }
+}
